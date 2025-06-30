@@ -1,5 +1,7 @@
 # Hussein Saad
 
+## 📫 How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enghusseinsaad/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/enghusseinsaad/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/eng_hussein_saa1)
@@ -47,13 +49,8 @@ Hi! I'm Hussein Saad, a passionate Full Stack Developer who loves building moder
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/eng-hussein-saad/eng-hussein-saad/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 📫 How to reach me
-- Email: eng.hussein.saad1@gmail.com
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/enghusseinsaad/)
-- Portfolio: [your-portfolio-link.com](https://updated-portofolio.vercel.app/)
