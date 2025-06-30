@@ -51,6 +51,6 @@ Hi! I'm Hussein Saad, a passionate Full Stack Developer who loves building moder
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/eng-hussein-saad/eng-hussein-saad/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eng-hussein-saad/eng-hussein-saad/blob/output/github-snake-dark.svg)
 
 ---
