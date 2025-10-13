@@ -37,24 +37,4 @@ Hi! I'm Hussein Saad, a passionate Full Stack Developer who loves building moder
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-hussein-saad&show_icons=true&theme=radical" alt="Hussein's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hussein-saad&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-hussein-saad&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-hussein-saad/eng-hussein-saad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-hussein-saad/eng-hussein-saad/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eng-hussein-saad/eng-hussein-saad/output/github-snake.svg" />
-</picture>
-
----
